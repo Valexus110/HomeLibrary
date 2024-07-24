@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">Ваше имя</string>
+    <string name="email">Ваша эл.почта</string>
+    <string name="password">Ваш пароль</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="sign_up_text">Нет аккаунта? Зарегистрируйтесь</string>
+    <string name="username_requirement">Не менее 4 символов</string>
+    <string name="email_requirement">Неверный формат эл. почты</string>
+    <string name="password_requirement">Пароль должен содержать буквы в нижнем и верхнем регистре и цифры</string>
+    <string name="failed_login">Возникла ошибка при авторизации. Попробуйте еще раз</string>
+    <string name="failed_register">Возникла ошибка при регистрации. Попробуйте еще раз</string>
+    <string name="welcome_user">Привет, %s!</string>
+    <string name="all_tab">Все</string>
+    <string name="want_read_tab">Хочу прочитать</string>
+    <string name="have_read_tab">Прочитанные</string>
+    <string name= "search_for">Искать книгу или автора</string>
+    <string name="found">Найдено: %d</string>
+    <string name="found_big_amount">Найдено: 99+</string>
+</resources>

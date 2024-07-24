@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Home Library</string>
+    <string name="username">Your username</string>
+    <string name="email">Your email</string>
+    <string name="password"><i>Your password</i></string>
+    <string name="continue_button">Continue</string>
+    <string name="sign_up_text">Don\'t have an account? Sign up</string>
+    <string name="username_requirement">Must be at least 4 characters</string>
+    <string name="email_requirement">Email wrong format</string>
+    <string name="password_requirement">Password should contain uppercase, lowercase and digits</string>
+    <string name="failed_login">An error occurred during authorization. Try again </string>
+    <string name="failed_register">An error occurred during registration. Try again </string>
+    <string name="welcome_user">Hello, %s!</string>
+    <string name="all_tab">All</string>
+    <string name="want_read_tab">Want to read</string>
+    <string name="have_read_tab">Have read</string>
+    <string name= "search_for">Search for book or author</string>
+    <string name="found">Found: %d</string>
+    <string name="found_big_amount">Found: 99+</string>
+</resources>

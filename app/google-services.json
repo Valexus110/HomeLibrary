@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "909679086278",
+    "firebase_url": "https://home-library-d1bc6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "home-library-d1bc6",
+    "storage_bucket": "home-library-d1bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909679086278:android:79af32d67dcbaf2e3d65c7",
+        "android_client_info": {
+          "package_name": "com.valexus.homelibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYeC_joMhA6Hc2M14ghDTNX7AJxSV10vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

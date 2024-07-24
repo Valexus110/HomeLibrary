@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="tabs">
+        <item>@string/all_tab</item>
+        <item>@string/want_read_tab</item>
+        <item>@string/have_read_tab</item>
+    </array>
+</resources>
